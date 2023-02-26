@@ -1,3 +1,3 @@
 # 👋 Hi, this is Monir! 👨‍💻
 
-It's been around 6 years I have been working as a Backend developer. These days I primarily work with Go! 
+Golang / Backend developer with 7 years of experience. Passionate about building scalable, performant, and maintainable applications that solve real-world problems. Worked on a variety of projects, from high-traffic e-commerce platforms to data-intensive microservices.
